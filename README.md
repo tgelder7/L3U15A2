@@ -2,4 +2,4 @@
 
 ## Brief  
 
-A recruitment
+A recruitment/profile page fo a web development company
