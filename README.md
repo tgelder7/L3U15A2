@@ -19,8 +19,12 @@ i founnd images on unsplash.com where i coujld find high quality images for free
 
 
 ### **an on-line application form**  
-n/a
+
 
 
 ### **links to web development courses**  
-I have included one link to a web development course.
+I have included links to different web development courses these include  
+- Coursera  
+- Code Academy  
+- IT Online Learning  
+with all of these links i have added i also wrote a description underneath each of them, 
