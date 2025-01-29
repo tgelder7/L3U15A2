@@ -47,7 +47,7 @@ I have included links to different web development courses these include:
 
 - **IT Online Learning**- For this link I included a description of the website, I wrote "IT Online Learning is a coding website with many different features including courses, successful stories and career programs, they also have information about the programs including average salary and expectations." I did this to show the user wha the link to the website is about to help them decide if it is relevant to them.  
 
-These links have been added to help the user find a Job or a course related to IT and coding
+These links have been added to help the user find a Job or a course related to IT and coding with all of the links taking them to different companies that will help them to acheive this. In addition to this, these websites also help the user to learn new information to prepare them for a job or course.
 
 ### **Additional Information:**
 
