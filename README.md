@@ -49,24 +49,24 @@ I have included links to different web development courses these include:
 
 These links have been added to help the user find a Job or a course related to IT and coding with all of the links taking them to different companies that will help them to acheive this. In addition to this, these websites also help the user to learn new information to prepare them for a job or course.
 
+## **Review**
+I reviewed my website with others to help suggest any potential improvements that may be necessary.  
+
+### **Adam Martin:**  
+Based on what I have seen, I beleive that this website is very good and doesnt need much improvement, however, there is a few things I would change:  
+- I would add more images to the website to make it more interesting rather than just have lots of writing.  
+- When you submit the application form, a little message would be nice to show that the information has been received rather than it taking you straight back to the home page.  
+
+### **Jacob Pooley:**  
+I like this website and I think it meets all of the requirements, but there is a few things I dont like:  
+- I dont like the how there are different colours being used for the background depending what page you are on and I beleive it should all be the same colour throughout.  
+- I also dont like how some of the pages look squished and I think you should use more of the page to make the alyout look more professional.  
+
+### **My Response:**  
+Based on this feedback, I agree with most of the points being made therefore I will consider these changes in the future if I was to redesign, edit or make a new website.  
+
 ### **Additional Information:**  
 
 I have tested the website fully and it functions as expected with all of the features doing there intended task.  
 
 Also, I added easy navigation with a container in the top left hand corner which the user can click to easily direct them to any part of the website, this feature is on all parts of the website so the user can easily navigate to wherever they need to be.
-
-## **Review**
-I reviewed my website with others to help suggest any potential improvements that may be necessary.  
-
-### **Adam Martin:**  
-Based on what i have seen, I beleive that this website is very good and doesnt need much improvement, however, there is a few things i would change:  
-- I would add more images to the website to make it more interesting rather than just have lots of writing.  
-- When you submit the application form, a little message would be nice to show that the information has been received rather than it taking you straight back to the home page.  
-
-### **Jacob Pooley:**  
-I like this website and i think it meets all of the requirements, but there is a few things i dont like:  
-- I dont like the how there are different colours being used for the background depending what page you are on and i beleive it should all be the same colour throughout.  
-- I also dont like how some of the pages look squished and i think you should use more of the page to make the alyout look more professional.  
-
-### **My Response:**  
-Based on this feedback, i agree with most of the points being made therefore i will consider these changes in the future if i was to redesign, edit or make a new website.
