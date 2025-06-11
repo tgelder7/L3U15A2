@@ -1,5 +1,5 @@
 ## Assignment  
-### The Github Pages link is https://tgelder7.github.io/L3U15A2/  
+### The Github Pages link is https://tgelder7.github.io/L3U15A2/, However, his file is better to be run locally due to the images not loading when run with Github Pages.   
 ## Brief  
 I have been tasked with creating a website which meets the following client requirements:  
 ### **A profile of the company itself**  
@@ -69,7 +69,4 @@ Based on this feedback, I agree with most of the points being made therefore I w
 
 I have tested the website fully and it functions as expected with all of the features doing there intended task.  
 
-Also, I added easy navigation with a container in the top left hand corner which the user can click to easily direct them to any part of the website, this feature is on all parts of the website so the user can easily navigate to wherever they need to be.  
-  
-Following feedback, I found some bugs with images not loading as expected, this has now been rectified as well as the size of these images.  
-The website is now fully functionable locally and and also via a Github repository.
+Also, I added easy navigation with a container in the top left hand corner which the user can click to easily direct them to any part of the website, this feature is on all parts of the website so the user can easily navigate to wherever they need to be.
