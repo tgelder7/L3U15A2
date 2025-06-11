@@ -1,0 +1,14 @@
+.webdevs {
+width: 20rem;
+margin-top: 2rem;
+margin-left: 2rem;
+height: 15rem;
+}
+
+.logo {
+    width: 5rem;
+    margin-top: 2rem;
+    margin-left: -50rem;
+    height: 15rem;
+    transform: translate(60px,120px);
+    }
