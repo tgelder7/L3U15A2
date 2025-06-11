@@ -1,5 +1,5 @@
 ## Assignment  
-### The Github Pages link is https://tgelder7.github.io/L3U15A2/, However, his file is better to be run locally due to the images not loading when run with Github Pages.   
+### The Github Pages link is https://tgelder7.github.io/L3U15A2/   
 ## Brief  
 I have been tasked with creating a website which meets the following client requirements:  
 ### **A profile of the company itself**  
