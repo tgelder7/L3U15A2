@@ -1,5 +1,4 @@
-## Assignment  
-### The Github Pages link is https://tgelder7.github.io/L3U15A2/   
+## Assignment     
 ## Brief  
 I have been tasked with creating a website which meets the following client requirements:  
 ### **A profile of the company itself**  
